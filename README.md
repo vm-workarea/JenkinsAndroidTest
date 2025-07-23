@@ -1,2 +1,2 @@
 # JenkinsAndroidTest
-Sample Android application to test Jenkins pipeline or build
+Sample Android application to test Jenkins pipeline or job
